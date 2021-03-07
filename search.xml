@@ -21,7 +21,23 @@
   <entry>
     <title>macOS Terminal Cheatsheet</title>
     <url>/2021/03/06/macOS-Terminal-Cheatsheet/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>一些macOS终端常用的快捷键</p>
+<span id="more"></span>
+
+<p>pwd || 当前工作目录</p>
+<p>cd || 进入root</p>
+<p>cd (folder) || 进入文件夹</p>
+<p>cd .. || 上级目录</p>
+<p>cd ~ || 返回root</p>
+<p>cd - || 返回上一个访问的目录</p>
+<p>rm 文件名 || 删除</p>
+<p>cat 文件名(less) || 在终端下查看文件</p>
+<p>ls || 列出目录下所有文件</p>
+<p>cp 文件名 目标目录 || 将文件拷贝到目标目录下</p>
+]]></content>
+      <tags>
+        <tag>macOS</tag>
+      </tags>
   </entry>
   <entry>
     <title>tag test</title>
