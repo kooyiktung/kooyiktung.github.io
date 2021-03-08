@@ -1,87 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>macOS将APP保留在Dock</title>
-      <link href="2021/03/08/macOS%E5%B0%86APP%E4%BF%9D%E7%95%99%E5%9C%A8Dock/"/>
-      <url>2021/03/08/macOS%E5%B0%86APP%E4%BF%9D%E7%95%99%E5%9C%A8Dock/</url>
-      
-        <content type="html"><![CDATA[<p>要将应用程序添加到Dock</p><span id="more"></span><h3 id="Open-‘Go’-gt-Choose-‘Application’"><a href="#Open-‘Go’-gt-Choose-‘Application’" class="headerlink" title="Open ‘Go’ -&gt; Choose ‘Application’"></a>Open ‘Go’ -&gt; Choose ‘Application’</h3><img src="/Users/kooyiktung/Library/Application Support/typora-user-images/image-20210308140858582.png" alt="image-20210308140858582" style="zoom:50%;" /><img src="/Users/kooyiktung/Library/Application Support/typora-user-images/image-20210308141004119.png" alt="image-20210308141004119" style="zoom:50%;" /><h3 id="在“-应用程序”屏幕中，找到要添加到Dock的应用程序。将光标放在应用程序上，然后单击并将应用程序的图标拖到Dock中。"><a href="#在“-应用程序”屏幕中，找到要添加到Dock的应用程序。将光标放在应用程序上，然后单击并将应用程序的图标拖到Dock中。" class="headerlink" title="在“ 应用程序”屏幕中，找到要添加到Dock的应用程序。将光标放在应用程序上，然后单击并将应用程序的图标拖到Dock中。"></a>在“ 应用程序”屏幕中，找到要添加到Dock的应用程序。将光标放在应用程序上，然后单击并将应用程序的图标拖到Dock中。</h3><h3 id="将应用程序图标拖到Dock中的目标位置，然后释放鼠标按钮"><a href="#将应用程序图标拖到Dock中的目标位置，然后释放鼠标按钮" class="headerlink" title="将应用程序图标拖到Dock中的目标位置，然后释放鼠标按钮"></a>将应用程序图标拖到Dock中的目标位置，然后释放鼠标按钮</h3>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/03/06/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>macOS Terminal Cheatsheet</title>
+    <url>/2021/03/06/macOS-Terminal-Cheatsheet/</url>
+    <content><![CDATA[<p>一些macOS终端常用的快捷键</p>
+<span id="more"></span>
+
+<p>pwd || 当前工作目录</p>
+<p>cd || 进入root</p>
+<p>cd (folder) || 进入文件夹</p>
+<p>cd .. || 上级目录</p>
+<p>cd ~ || 返回root</p>
+<p>cd - || 返回上一个访问的目录</p>
+<p>rm 文件名 || 删除</p>
+<p>cat 文件名(less) || 在终端下查看文件</p>
+<p>ls || 列出目录下所有文件</p>
+<p>cp 文件名 目标目录 || 将文件拷贝到目标目录下</p>
+]]></content>
+      <tags>
+        <tag>macOS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>macOS将APP保留在Dock</title>
+    <url>/2021/03/08/macOS%E5%B0%86APP%E4%BF%9D%E7%95%99%E5%9C%A8Dock/</url>
+    <content><![CDATA[<p>要将应用程序添加到Dock</p>
+<span id="more"></span>
+
+<h3 id="Open-‘Go’-gt-Choose-‘Application’"><a href="#Open-‘Go’-gt-Choose-‘Application’" class="headerlink" title="Open ‘Go’ -&gt; Choose ‘Application’"></a>Open ‘Go’ -&gt; Choose ‘Application’</h3>]]></content>
       <categories>
-          
-          <category> Hints </category>
-          
-          <category> macOS </category>
-          
+        <category>Hints</category>
+        <category>macOS</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> macOS </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tag test</title>
-      <link href="2021/03/06/tag-test/"/>
-      <url>2021/03/06/tag-test/</url>
-      
-        <content type="html"><![CDATA[<p>散文散文散文散文散文散文岁月如梭，而光阴却从容地在季节的转变中流逝，告别了对白雪皑皑的依依不舍，轻轻地推开那扇早春二月的门楣。时光之笺悠然地展开了一页崭新的画卷，生命的润泽之上，谱写一曲春之恋歌。</p><span id="more"></span><p>岁月如梭，而光阴却从容地在季节的转变中流逝，告别了对白雪皑皑的依依不舍，轻轻地推开那扇早春二月的门楣。时光之笺悠然地展开了一页崭新的画卷，生命的润泽之上，谱写一曲春之恋歌。</p><p>春，已悄然萌动在杨柳枝头，正孕育着一场盛大的早春之宴，静心等待灿烂绽放的时刻到来。在一片祥和之中，空气飘逸着温暖的清香，一切<a href="https://www.bidushe.com/diary/sinian/">思念</a>，仿佛都那么的自然与舒畅。寻觅一处清幽的丛林，静心聆听嫩芽挣破冰封的束缚、层层开裂的脆响，侧耳聆听雨丝滴落润泽植被和那细软的吻吟。</p><p>春，是万物复苏的季节，是朝气勃发的季节。所有的生命，经历了漫长的严寒冰封，阔步走进春色茵茵寄希之中，仿佛超然淡泊了许多许多；而那些稍纵即逝的激情，又伴随着初春的暗示，再次蠢蠢萌动起来。记忆中，静雪飘飘的美，延绵在春的怀抱，出落成桃色夭夭的模样。惊艳，可想！</p><p>春，在诗意中浪漫，季节憧憬着美丽和未来，梦心愿在佳期中绽放。这么美妙的时节，最是欣然，能与有缘人一起迎接花香淡淡的阳春，一同感受生命的美好。一些不离散的陪伴，是最盎然生机的一抹春色、一缕春光，温柔散落于季节中。暖意融融的情分，让人怎能不开怀！</p><p>春，如一汪清澈的甘泉，滋润着心的枯涸；春的韵律，舞步轻快、欢歌飞扬。春风拂过树梢，春色悄悄蔓延、萌动，不张扬，不喧闹，安静的不忍去打扰。春暖融融的人间，忘了世界还有纷繁、忘了世事依然纷扰；春天的人儿，心怀里的美好，渐次叶茂、枝繁。</p><p>早春的晨，推开一扇明朗的心窗，夹着馨香的<a href="https://www.bidushe.com/diary/xingfu/">幸福</a>，扑面袭来。临窗静坐，一壶香茗，浅酌于心，轻描心蕾，一笺情长处，默写流年记忆的样子。时光的间暇，宁静中伏笔，早春的心事细细研磨在墨香的诗笺中，思想开出最美的花儿。蓦然，深深感念：这岁月，又赋予自己喜欢的文字以生命、生机，多好！</p><p>春的静谧处，偶然与往事静心面对，斟满一杯昔日的醇香，悠然浅酌细品、曼妙回味；继而，心潮荡开层层叠叠爱的涟漪。曾经走过的路，遇见过的故人，点点滴滴的交集，沿途洒下的欢喜、忧伤，都能定格为善暖的记忆，犹记经年的旧时光，恋恋回望。曾经的情深缘浅，不再去追问；失去和拥有，学会用淡然的心态去诠释。</p><p>早春的陌上，是谁，唱着一首深情的老歌，温柔在耳际：“如果你抬头看见那天上飘的云，那是我们最美的相遇……</p><p>一份美好而笃定的爱，携一季的馨暖，款款步入春的襟怀……</p><p>倘若，生命依然长存，莫让岁月淡薄了思念，莫让光阴苍老了等待。惟愿，年华如春期，偶尔轻涉聆风听雨的时间，把每一种情深意切的<a href="https://www.bidushe.com/jingdian/ganwu/">人生</a>经历，都滋养在春的情怀。这样明媚温暖的日子，拥一份爱恋在心上，感受阳光煦风的焙暖，格外珍贵，心然珍惜！</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Python </tag>
-            
-            <tag> R </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>macOS Terminal Cheatsheet</title>
-      <link href="2021/03/06/macOS-Terminal-Cheatsheet/"/>
-      <url>2021/03/06/macOS-Terminal-Cheatsheet/</url>
-      
-        <content type="html"><![CDATA[<p>一些macOS终端常用的快捷键</p><span id="more"></span><p>pwd || 当前工作目录</p><p>cd || 进入root</p><p>cd (folder) || 进入文件夹</p><p>cd .. || 上级目录</p><p>cd ~ || 返回root</p><p>cd - || 返回上一个访问的目录</p><p>rm 文件名 || 删除</p><p>cat 文件名(less) || 在终端下查看文件</p><p>ls || 列出目录下所有文件</p><p>cp 文件名 目标目录 || 将文件拷贝到目标目录下</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> macOS </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="2021/03/06/hello-world/"/>
-      <url>2021/03/06/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>macOS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>tag test</title>
+    <url>/2021/03/06/tag-test/</url>
+    <content><![CDATA[<p>散文散文散文散文散文散文岁月如梭，而光阴却从容地在季节的转变中流逝，告别了对白雪皑皑的依依不舍，轻轻地推开那扇早春二月的门楣。时光之笺悠然地展开了一页崭新的画卷，生命的润泽之上，谱写一曲春之恋歌。</p>
+<span id="more"></span>
+
+<p>岁月如梭，而光阴却从容地在季节的转变中流逝，告别了对白雪皑皑的依依不舍，轻轻地推开那扇早春二月的门楣。时光之笺悠然地展开了一页崭新的画卷，生命的润泽之上，谱写一曲春之恋歌。</p>
+<p>春，已悄然萌动在杨柳枝头，正孕育着一场盛大的早春之宴，静心等待灿烂绽放的时刻到来。在一片祥和之中，空气飘逸着温暖的清香，一切<a href="https://www.bidushe.com/diary/sinian/">思念</a>，仿佛都那么的自然与舒畅。寻觅一处清幽的丛林，静心聆听嫩芽挣破冰封的束缚、层层开裂的脆响，侧耳聆听雨丝滴落润泽植被和那细软的吻吟。</p>
+<p>春，是万物复苏的季节，是朝气勃发的季节。所有的生命，经历了漫长的严寒冰封，阔步走进春色茵茵寄希之中，仿佛超然淡泊了许多许多；而那些稍纵即逝的激情，又伴随着初春的暗示，再次蠢蠢萌动起来。记忆中，静雪飘飘的美，延绵在春的怀抱，出落成桃色夭夭的模样。惊艳，可想！</p>
+<p>春，在诗意中浪漫，季节憧憬着美丽和未来，梦心愿在佳期中绽放。这么美妙的时节，最是欣然，能与有缘人一起迎接花香淡淡的阳春，一同感受生命的美好。一些不离散的陪伴，是最盎然生机的一抹春色、一缕春光，温柔散落于季节中。暖意融融的情分，让人怎能不开怀！</p>
+<p>春，如一汪清澈的甘泉，滋润着心的枯涸；春的韵律，舞步轻快、欢歌飞扬。春风拂过树梢，春色悄悄蔓延、萌动，不张扬，不喧闹，安静的不忍去打扰。春暖融融的人间，忘了世界还有纷繁、忘了世事依然纷扰；春天的人儿，心怀里的美好，渐次叶茂、枝繁。</p>
+<p>早春的晨，推开一扇明朗的心窗，夹着馨香的<a href="https://www.bidushe.com/diary/xingfu/">幸福</a>，扑面袭来。临窗静坐，一壶香茗，浅酌于心，轻描心蕾，一笺情长处，默写流年记忆的样子。时光的间暇，宁静中伏笔，早春的心事细细研磨在墨香的诗笺中，思想开出最美的花儿。蓦然，深深感念：这岁月，又赋予自己喜欢的文字以生命、生机，多好！</p>
+<p>春的静谧处，偶然与往事静心面对，斟满一杯昔日的醇香，悠然浅酌细品、曼妙回味；继而，心潮荡开层层叠叠爱的涟漪。曾经走过的路，遇见过的故人，点点滴滴的交集，沿途洒下的欢喜、忧伤，都能定格为善暖的记忆，犹记经年的旧时光，恋恋回望。曾经的情深缘浅，不再去追问；失去和拥有，学会用淡然的心态去诠释。</p>
+<p>早春的陌上，是谁，唱着一首深情的老歌，温柔在耳际：“如果你抬头看见那天上飘的云，那是我们最美的相遇……</p>
+<p>一份美好而笃定的爱，携一季的馨暖，款款步入春的襟怀……</p>
+<p>倘若，生命依然长存，莫让岁月淡薄了思念，莫让光阴苍老了等待。惟愿，年华如春期，偶尔轻涉聆风听雨的时间，把每一种情深意切的<a href="https://www.bidushe.com/jingdian/ganwu/">人生</a>经历，都滋养在春的情怀。这样明媚温暖的日子，拥一份爱恋在心上，感受阳光煦风的焙暖，格外珍贵，心然珍惜！</p>
+]]></content>
+      <tags>
+        <tag>Python</tag>
+        <tag>R</tag>
+      </tags>
+  </entry>
 </search>
