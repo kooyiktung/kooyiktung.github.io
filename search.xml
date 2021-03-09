@@ -1,82 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>SPSS01</title>
-      <link href="2021/03/09/SPSS%E4%B8%AD%E7%9A%84P%E5%80%BCT%E5%80%BCF%E5%80%BCSIG%E5%80%BC/"/>
-      <url>2021/03/09/SPSS%E4%B8%AD%E7%9A%84P%E5%80%BCT%E5%80%BCF%E5%80%BCSIG%E5%80%BC/</url>
-      
-        <content type="html"><![CDATA[<p>SPSS中的P值T值F值SIG值</p><span id="more"></span>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>macOS Terminal Cheatsheet</title>
+    <url>/2021/03/06/macOS-Terminal-Cheatsheet/</url>
+    <content><![CDATA[<p>一些macOS终端常用的快捷键</p>
+<span id="more"></span>
+
+<p>pwd || 当前工作目录</p>
+<p>cd || 进入root</p>
+<p>cd (folder) || 进入文件夹</p>
+<p>cd .. || 上级目录</p>
+<p>cd ~ || 返回root</p>
+<p>cd - || 返回上一个访问的目录</p>
+<p>rm 文件名 || 删除</p>
+<p>cat 文件名(less) || 在终端下查看文件</p>
+<p>ls || 列出目录下所有文件</p>
+<p>cp 文件名 目标目录 || 将文件拷贝到目标目录下</p>
+]]></content>
+      <tags>
+        <tag>macOS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>macOS将APP保留在Dock</title>
+    <url>/2021/03/08/macOS%E5%B0%86APP%E4%BF%9D%E7%95%99%E5%9C%A8Dock/</url>
+    <content><![CDATA[<p>要将应用程序添加到Dock</p>
+<span id="more"></span>
+
+<h3 id="Open-‘Go’-gt-Choose-‘Application’"><a href="#Open-‘Go’-gt-Choose-‘Application’" class="headerlink" title="Open ‘Go’ -&gt; Choose ‘Application’"></a>Open ‘Go’ -&gt; Choose ‘Application’</h3><img src="/2021/03/08/macOS%E5%B0%86APP%E4%BF%9D%E7%95%99%E5%9C%A8Dock/image-20210308215052799.png" alt="image-20210308215052799" style="zoom:80%;">
+
+<img src="/2021/03/08/macOS%E5%B0%86APP%E4%BF%9D%E7%95%99%E5%9C%A8Dock/image-20210308215341159.png" alt="image-20210308215341159" style="zoom:80%;">
+
+<h3 id="在“-应用程序”屏幕中，找到要添加到Dock的应用程序。将光标放在应用程序上，然后单击并将应用程序的图标拖到Dock中。"><a href="#在“-应用程序”屏幕中，找到要添加到Dock的应用程序。将光标放在应用程序上，然后单击并将应用程序的图标拖到Dock中。" class="headerlink" title="在“ 应用程序”屏幕中，找到要添加到Dock的应用程序。将光标放在应用程序上，然后单击并将应用程序的图标拖到Dock中。"></a>在“ 应用程序”屏幕中，找到要添加到Dock的应用程序。将光标放在应用程序上，然后单击并将应用程序的图标拖到Dock中。</h3><h3 id="将应用程序图标拖到Dock中的目标位置，然后释放鼠标按钮"><a href="#将应用程序图标拖到Dock中的目标位置，然后释放鼠标按钮" class="headerlink" title="将应用程序图标拖到Dock中的目标位置，然后释放鼠标按钮"></a>将应用程序图标拖到Dock中的目标位置，然后释放鼠标按钮</h3>]]></content>
       <categories>
-          
-          <category> PhDPhD </category>
-          
-          <category> Data Analysis </category>
-          
+        <category>Hints</category>
+        <category>macOS</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> SPSS </tag>
-            
-            <tag> Statistics </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>macOS将APP保留在Dock</title>
-      <link href="2021/03/08/macOS%E5%B0%86APP%E4%BF%9D%E7%95%99%E5%9C%A8Dock/"/>
-      <url>2021/03/08/macOS%E5%B0%86APP%E4%BF%9D%E7%95%99%E5%9C%A8Dock/</url>
-      
-        <content type="html"><![CDATA[<p>要将应用程序添加到Dock</p><span id="more"></span><h3 id="Open-‘Go’-gt-Choose-‘Application’"><a href="#Open-‘Go’-gt-Choose-‘Application’" class="headerlink" title="Open ‘Go’ -&gt; Choose ‘Application’"></a>Open ‘Go’ -&gt; Choose ‘Application’</h3><img src="/2021/03/08/macOS%E5%B0%86APP%E4%BF%9D%E7%95%99%E5%9C%A8Dock/image-20210308215052799.png" alt="image-20210308215052799" style="zoom:80%;"><img src="/2021/03/08/macOS%E5%B0%86APP%E4%BF%9D%E7%95%99%E5%9C%A8Dock/image-20210308215341159.png" alt="image-20210308215341159" style="zoom:80%;"><h3 id="在“-应用程序”屏幕中，找到要添加到Dock的应用程序。将光标放在应用程序上，然后单击并将应用程序的图标拖到Dock中。"><a href="#在“-应用程序”屏幕中，找到要添加到Dock的应用程序。将光标放在应用程序上，然后单击并将应用程序的图标拖到Dock中。" class="headerlink" title="在“ 应用程序”屏幕中，找到要添加到Dock的应用程序。将光标放在应用程序上，然后单击并将应用程序的图标拖到Dock中。"></a>在“ 应用程序”屏幕中，找到要添加到Dock的应用程序。将光标放在应用程序上，然后单击并将应用程序的图标拖到Dock中。</h3><h3 id="将应用程序图标拖到Dock中的目标位置，然后释放鼠标按钮"><a href="#将应用程序图标拖到Dock中的目标位置，然后释放鼠标按钮" class="headerlink" title="将应用程序图标拖到Dock中的目标位置，然后释放鼠标按钮"></a>将应用程序图标拖到Dock中的目标位置，然后释放鼠标按钮</h3>]]></content>
-      
-      
+      <tags>
+        <tag>macOS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>SPSS01</title>
+    <url>/2021/03/09/SPSS01/</url>
+    <content><![CDATA[<p>SPSS中的P值T值F值SIG值</p>
+<span id="more"></span>
+
+]]></content>
       <categories>
-          
-          <category> Hints </category>
-          
-          <category> macOS </category>
-          
+        <category>PhDPhD</category>
+        <category>Data Analysis</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> macOS </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>macOS Terminal Cheatsheet</title>
-      <link href="2021/03/06/macOS-Terminal-Cheatsheet/"/>
-      <url>2021/03/06/macOS-Terminal-Cheatsheet/</url>
-      
-        <content type="html"><![CDATA[<p>一些macOS终端常用的快捷键</p><span id="more"></span><p>pwd || 当前工作目录</p><p>cd || 进入root</p><p>cd (folder) || 进入文件夹</p><p>cd .. || 上级目录</p><p>cd ~ || 返回root</p><p>cd - || 返回上一个访问的目录</p><p>rm 文件名 || 删除</p><p>cat 文件名(less) || 在终端下查看文件</p><p>ls || 列出目录下所有文件</p><p>cp 文件名 目标目录 || 将文件拷贝到目标目录下</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> macOS </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>SPSS</tag>
+        <tag>Statistics</tag>
+      </tags>
+  </entry>
 </search>
