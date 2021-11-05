@@ -83,7 +83,7 @@ a:hover {
 
 }
 
-#map_wrap {
+#map_wrap a img {
     position: absolute;
     display: block;
     bottom: 0px;
